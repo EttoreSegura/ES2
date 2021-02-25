@@ -1,0 +1,32 @@
+
+Períodos:
+  
+0:00 – 3:30
+ - Modelos de processo de software 
+ 
+3:31 – 5:56
+ - O que é software
+ 
+5:57 – 6:19
+ - Atividades da engenharia de software
+
+6:20 – 8:46
+ - Desafios e Custos da ES
+
+8:47 – 10:34 - Processo de software, Atividades fundamentais
+   
+10:35 – 15:59 - Modelos comuns de processo de software
+Modelo cascata, desenvolvimento incremental,
+
+15:60 – 17:04
+ - Especificação, desenvolvimento, validação, evolução
+
+17:05 – 18:15
+ - Resquisitos
+
+18:16 – 19:44 - Especificação de requisitos
+
+19:45 – 20:53
+ - Testes
+
+20:54 – 22:42 - Evolução do sistema
